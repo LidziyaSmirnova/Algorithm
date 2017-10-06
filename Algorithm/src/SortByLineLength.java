@@ -32,6 +32,6 @@ Collections.sort(greet, new StringLengthComparator());
 
 for(String greeting: greet){
 	 System.out.println(greeting);
- }
+  }
 }
 }
